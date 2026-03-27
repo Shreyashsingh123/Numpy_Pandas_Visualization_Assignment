@@ -1,0 +1,401 @@
+patient_id,age,gender,diagnosis,hospital_days,treatment_cost
+6ec32a0d-f935-494c-99f3-255c53c42298,43,Female,Arthritis,7,4017
+324e660c-7b75-4f10-9fbf-cc006eb93d62,48,Male,Arthritis,9,5132
+4364746a-0de8-43de-8bbf-7d6e2a515327,79,Male,Flu,25,5478
+da1c0cea-5192-4ae3-9695-1b82f937c611,5,Female,Hypertension,22,3273
+7f1ab6d2-bb39-4f8d-b258-729463b25602,64,Male,Migraine,8,9813
+036b50f9-8f59-4485-b171-9f13c262d6bf,43,Female,Fracture,24,4199
+55f9be12-35be-4bbe-9eba-0d2818e2f98e,63,Male,Flu,12,6390
+0ba75fec-83c8-4e3c-8d16-6809498f3235,3,Male,Flu,17,5437
+768fbe11-7d3d-4911-8c82-1a73531a85d3,85,Male,Asthma,5,6460
+1844bef0-dfb6-4b19-b02e-1d607015d795,1,Female,Diabetes,1,5581
+437dce7b-6804-4dfa-a3a8-9390dbeae6a5,84,Female,Fracture,11,3670
+19ed8077-9265-4425-862d-59172dd9b582,33,Male,Arthritis,19,3451
+79057e12-514d-4e7f-84cb-94c3ee3d5960,44,Female,Fracture,6,8522
+00b88eea-5153-4171-bee0-cc55fce0801e,39,Female,Diabetes,12,5470
+bd73e2a9-6395-4274-9279-4e6854cedbf3,76,Female,Migraine,26,5334
+05d9c1f8-89f1-4717-a86f-87ff02db1090,36,Male,Asthma,14,8777
+b4f179be-ebc9-4358-b5d5-dd2770452edf,52,Male,Arthritis,30,5752
+ccf56a31-910c-4944-b2e1-e021fe4b20e6,22,Male,Diabetes,25,4867
+1031902a-f2ec-432b-aedd-5a8f3a9df12c,74,Female,Hypertension,21,2712
+ef5c8b95-6296-4c27-a6e1-92f6f58acdb3,50,Female,Arthritis,1,5331
+6fe065bf-2256-4393-9c3f-81c9815bbe15,76,Male,Flu,16,5939
+a5637300-854a-40c8-91f6-28da668bc606,81,Male,Asthma,12,5207
+85ba301f-42ce-4213-a74a-48263988a18b,38,Female,Arthritis,2,3379
+faf7d00b-9210-49e6-bbd8-212f5dddc209,69,Female,Asthma,29,2934
+38835a41-032a-489a-aa7e-fb7afe0074f4,42,Female,Migraine,1,8899
+4290225d-e0fa-41e4-ac1c-8095943d7af6,43,Female,Diabetes,14,5384
+899586af-e095-4046-ba31-9f4ada1d1f13,9,Male,Asthma,30,7515
+b65f4188-cb8f-4650-b6da-cb517057ad43,73,Male,Diabetes,28,7851
+4b218d41-72b9-4898-8489-c0eb8484ccb6,74,Male,Hypertension,11,3368
+692c01cf-972d-423d-9711-d82a78b96521,47,Male,Heart Disease,17,3417
+d2bea47d-98ed-4def-8e85-79d7f6aa3cc1,77,Female,Diabetes,2,6801
+b3dd6570-3d20-4301-ac56-aed178ac1e23,78,Male,Fracture,27,9085
+aa6767f0-2415-4560-93dd-65797b6ad3c2,73,Female,Fracture,6,1593
+b3b635d7-addc-4157-8beb-7c069a749d4b,32,Female,Flu,5,5820
+8b52b9b2-e399-405a-a4b8-903d715df527,51,Male,Diabetes,23,8782
+103045eb-624c-4aab-adb3-46312502d8c9,65,Female,Arthritis,12,3793
+d1cbc42f-3f42-49a4-84ea-3d2034a2c473,50,Female,Fracture,7,2145
+4ac357b2-2a0c-4364-a774-bf6fd1f09125,63,Female,Hypertension,1,3792
+fff8ae48-6182-4955-b6f9-e2e381f6ad2c,79,Male,Fracture,11,5225
+b3bc18cd-290f-4268-a643-861238a1d79a,15,Female,Asthma,26,5110
+5ead6b7b-018d-4106-ae52-957bf66f3d43,5,Male,Diabetes,6,2083
+57fc8a9b-4e33-4499-914e-f1058f23ea67,40,Male,Migraine,4,4360
+908378ae-7c30-4a1a-a893-4117ca7070d7,49,Female,Heart Disease,22,3155
+3e099958-a5e1-472e-9622-b87d0d679580,12,Female,Hypertension,15,8705
+18bdbe7b-3fa9-4723-aa85-a85a95d8df03,74,Female,Asthma,27,4184
+1ca05b85-bc60-494d-b9e9-709ddcd2ea0d,23,Female,Flu,4,7910
+ef2c44e6-8a35-491d-8e2b-226a7ed06399,88,Female,Migraine,20,4321
+326a3115-719a-4e1c-914e-bd84ef0286b4,2,Female,Hypertension,30,2208
+cb43ce6c-563d-4f87-94fb-41118e8d75c7,53,Male,Migraine,19,7066
+15589028-d321-448c-a6ae-edfe37bdc70c,63,Female,Arthritis,18,2509
+3f922f36-2782-4e06-a4e0-8837cb2a45ff,18,Female,Migraine,11,6015
+7e741562-0934-422d-b1ba-284eca78647e,71,Female,Heart Disease,17,5485
+b2bf5bc6-7a78-494b-baa3-89dd52c47f4c,11,Male,Hypertension,7,4198
+6883808f-ad1f-4172-8803-ae2a9e971049,45,Female,Fracture,23,3961
+5b24efe3-7423-4638-a452-2cded0e902dd,88,Male,Arthritis,18,2445
+7b94e0a1-ce76-4076-ab97-aa133035d973,57,Female,Heart Disease,1,8585
+ea09ca14-a259-408f-b0c0-72958a9e8bfd,12,Male,Hypertension,18,9537
+46f0135f-517f-4e40-b4a4-4132a05163b3,24,Female,Migraine,3,7793
+405621b1-94c2-4405-a7e2-03f687d8dc20,72,Female,Hypertension,27,4322
+10c26b4d-9d6f-463d-9685-170c3c7a8bd2,51,Female,Diabetes,10,4587
+2c62bb9d-e735-496a-ac31-dee1264de69a,60,Female,Hypertension,4,4719
+5f0c258b-93dd-469c-b333-94827bcbffca,22,Female,Flu,29,3018
+d697ce14-69ca-419a-b381-32bf87b2b3a6,63,Female,Fracture,4,5680
+008551a5-f8a8-415c-819b-5be83e1004fd,20,Male,Flu,1,9170
+24f0c8af-a256-4f58-b10a-3b22826418cb,13,Male,Flu,18,3940
+3d7343e4-ad85-452e-9e21-90b95c6affc6,77,Female,Heart Disease,15,3037
+00f13df3-9b4c-48ee-a84d-75b564448040,14,Female,Fracture,15,9502
+49eeffc4-9249-4d9e-85fa-45f6243089e0,4,Female,Asthma,19,1795
+a52ea65d-e861-4a70-8dc1-7b53c19357e8,87,Male,Heart Disease,13,3422
+93b370de-cf25-4908-8a96-f383144154f7,75,Male,Fracture,30,5496
+5ea957e6-22d8-46f1-9beb-a7a96c981d98,56,Female,Hypertension,30,3254
+770a21a2-6a2c-4c53-b8c8-4c7881e96c50,38,Male,Asthma,20,4044
+9eded66d-4343-4c50-875d-89c8ee380cee,48,Male,Diabetes,13,7616
+b351caef-96b2-4e09-9709-2bfbebad6f5f,31,Female,Diabetes,11,7959
+e4094d1e-7416-48e6-aa63-02f476d3f38f,33,Male,Asthma,14,4674
+93469c21-004a-4e14-abac-6272c8e57c68,7,Female,Hypertension,20,9370
+80c07ed8-3211-415d-adda-bafba9f75cd0,45,Female,Asthma,1,4476
+771cb447-3816-471f-9aa1-69f2587a85c2,47,Female,Hypertension,22,3809
+f5c9abb4-8544-4e48-9ce9-434b118f00c7,31,Male,Heart Disease,27,9100
+1d536e64-4574-4c94-bbfe-8e1f21814cc3,4,Male,Asthma,6,6977
+255eab82-3905-4945-8d73-3340930dff59,39,Female,Heart Disease,10,7384
+37c0eb73-1548-4650-ac39-10212700c43a,75,Female,Flu,10,1840
+8830b202-d96d-43c8-a224-120d93a4a636,2,Female,Migraine,9,4432
+0ced2f87-c6f2-4d53-bf2f-63bcc747ffc0,85,Female,Heart Disease,16,5283
+f42288f7-2ad9-47a3-bb58-b2ca85e1464a,70,Male,Diabetes,14,8740
+6390f27d-776b-4ada-835a-82bbbda9b8c0,43,Male,Flu,21,4695
+a1d7ea4b-5ab3-44a9-bd40-053a76dbc29a,58,Female,Arthritis,10,2706
+bc7d2bc4-a6c3-423e-8eb5-5a65d055ffd1,60,Female,Fracture,21,3737
+8440ed72-ce60-45df-98e5-6cbb233669e6,4,Male,Flu,18,2820
+af44b92a-8507-47b5-87f3-ec5e86163fa7,9,Male,Heart Disease,24,9572
+4d8bf22d-1719-4fa3-8a50-54085bc33c9d,36,Male,Fracture,8,7562
+af0af99c-3173-47d2-9c0e-684c7df7dfaa,16,Female,Asthma,5,1831
+d7c4a315-92e1-4628-a4a3-0dc67f43cc2c,15,Male,Diabetes,15,2381
+29e2ab90-271d-4bd2-8530-a3304ead2553,7,Female,Arthritis,14,3873
+ea2efd9c-96b9-4b6b-9429-b6b6e9655e90,38,Male,Hypertension,7,2440
+f1e835be-7516-49b9-97ca-46e47839f0d9,7,Male,Arthritis,18,2769
+a790f3b1-f477-456f-8729-13c032eba2d9,11,Male,Diabetes,22,7041
+d19b6822-596e-4e10-aa37-075395bdb65e,74,Female,Hypertension,29,4683
+85f55814-9f3b-482e-a13e-22c19c297fee,68,Female,Arthritis,28,6647
+204b76f2-02c9-4372-85f3-34347b0b1bf1,90,Male,Arthritis,24,1579
+07e8d787-17ac-4696-9554-3ff7d599d85e,63,Male,Diabetes,20,9519
+a2dd29ba-0e64-4074-8fcd-bcaf65214e7f,10,Male,Migraine,14,4017
+e8f0da01-1e6f-4f88-a11c-edc775a01b7d,32,Male,Migraine,12,5691
+99dabcd8-a9cd-47b9-bbf5-9e36c14e303f,71,Female,Diabetes,20,2692
+447f5be6-d1f8-4a50-829b-e51b791d844a,24,Male,Arthritis,1,7534
+61d8d933-aad1-40ae-9053-3e01aa3d1dc9,40,Female,Fracture,23,7007
+5176983a-c0ad-46a2-855a-f72269c76de3,54,Male,Hypertension,1,5588
+b3f89aaf-c84b-4e16-b526-0291a5d41ef4,58,Female,Migraine,1,6411
+dae51f80-54c9-44a6-bfe0-14a42934c1bd,87,Male,Diabetes,2,3790
+92d0a7a7-9b5e-4edf-95d3-95fa08348c90,51,Male,Arthritis,29,3802
+c8900499-96dd-4ca0-b986-2f9efd1865f0,43,Female,Fracture,20,6913
+22219c6c-f180-472a-afe6-88ea1e93ec75,74,Female,Migraine,27,4604
+32afac0c-4780-442c-9c8a-515861033520,75,Female,Diabetes,10,2626
+c25e9aa4-a880-4a4a-bcab-97796b9c71d9,27,Female,Flu,7,3619
+793ef3eb-fb81-4473-b0a8-e7d4bc062f60,82,Male,Migraine,12,5034
+9522755c-4b06-4dd1-8930-5e7cd62d7f23,74,Female,Flu,19,8160
+c94a93ad-8074-4ce6-aa6e-055c84ac52d4,17,Female,Fracture,11,8880
+1222e7c2-8f82-445c-a7b9-19ee63c868b6,72,Female,Flu,4,9415
+2bc5a01c-d7d5-4671-80f7-8c772cdb3f0d,70,Female,Migraine,25,7522
+be3b8918-c680-44ea-9620-94b914451d9c,30,Male,Asthma,7,3538
+7fa69094-73ae-42f4-9f57-cf42fa59fa31,61,Male,Arthritis,5,7028
+2ad5c800-31eb-4c5b-a95b-33a698bcd345,56,Female,Heart Disease,25,9963
+0753a974-cdfe-4c17-a396-bc32a2d84f74,73,Female,Asthma,14,5733
+dce32c6e-569e-4c73-950a-329dc3f7b08c,56,Male,Asthma,25,8955
+9d8d6185-27af-4c5d-8a04-7eb647fec798,21,Male,Flu,15,6119
+108ca4f9-823f-4b46-bfae-c49c44d08fe6,60,Male,Asthma,4,8727
+749cc658-8a41-4fe8-8d5e-04742f7a68f7,41,Male,Arthritis,25,2466
+04142d1a-b63f-4354-ac4e-aba7a0d3be0b,63,Female,Diabetes,30,6928
+2d21c425-8d39-4d41-b947-2f9311ca9faa,51,Female,Migraine,12,2086
+92cd5864-d7b7-4480-baf6-919de0a09755,77,Male,Diabetes,5,6626
+85f931ca-4e07-445e-b7b1-7b3048f3fa8a,2,Female,Hypertension,25,4511
+ac43c4a8-db5e-4557-aa21-231dfccbadbd,12,Male,Hypertension,24,6887
+46f066bf-f8ab-4079-a906-18bea520c015,25,Male,Migraine,5,6137
+ffd55af3-824f-483e-ae82-1f936134952a,46,Male,Flu,2,4418
+dc4da373-79fd-441f-88ed-b638a426def9,46,Male,Hypertension,6,9400
+e5df1fa9-3bac-42f7-aab2-8e0f71e596f0,10,Female,Heart Disease,18,9163
+8fd01658-9fc1-4e6e-b8ba-62f24809f2ea,58,Female,Migraine,2,5448
+0da0f239-32c7-4a25-9d57-03bf5b4c53fe,4,Male,Arthritis,1,9385
+2b6520eb-0950-4a4f-9c2c-c05f20fcfbdc,81,Male,Hypertension,24,7429
+01039de4-2fcb-4eed-bd0e-7903fe3300d1,40,Male,Fracture,18,8283
+6c524eb7-1eab-4bb1-a216-fe3ed29613b0,1,Male,Fracture,13,2082
+df3a2fab-64ba-4490-80f6-3e7f805bd926,24,Female,Flu,14,7364
+ebe1768d-f5a7-480c-b49f-a1ae334e2ad1,37,Female,Fracture,5,5134
+e4771cec-8a2b-4bfd-bbc7-b86b8709d268,47,Female,Hypertension,5,7342
+f89ee9d7-0780-4be8-a152-b43dd145d4ac,6,Male,Flu,23,1789
+707cebd9-87c3-456e-bc2a-09f9bf2ba6ed,57,Male,Heart Disease,24,2240
+1a80e0c5-cfdb-4ee0-ac4a-615c61d19699,66,Female,Fracture,26,9820
+e8ee1a66-63c5-44d0-8dba-f84567e437ae,30,Female,Flu,21,7717
+57b0fb6d-1a72-4eb4-ab3a-448bfa5bbe3c,79,Male,Flu,4,4565
+ac14230d-ced9-4109-a00d-f515b114695a,82,Female,Flu,1,8587
+902fdb1c-8544-4b43-9f4c-dd22b0054483,58,Male,Flu,20,2635
+438e90d6-8dee-42cc-8132-05c8f3d0a650,60,Male,Heart Disease,19,3098
+7d9da456-6412-41a1-8794-9cfb46f3bab3,81,Male,Migraine,3,2402
+6aaca676-e9a1-4714-83b4-dcb40dedcb88,87,Female,Migraine,6,3512
+87895cb1-273e-40e4-8d34-3a7cd00e5da6,34,Female,Hypertension,19,4062
+cace5ab9-93ff-4517-b987-e8c6cdd5f748,90,Female,Migraine,15,5531
+b4535217-6157-4c71-ac2b-6bd7fec4bf2a,3,Male,Arthritis,13,8890
+95aa3069-83a2-4a73-acf0-83e3d329185a,19,Male,Asthma,2,6764
+8203aae6-e72d-4d4a-a7e1-7b555dda6fc1,4,Male,Hypertension,3,5633
+6579738b-8dfc-49b0-ac43-7b1bbdea756c,90,Female,Flu,18,7575
+918d12e7-625b-4d3e-bbbb-3f3a30562638,69,Female,Fracture,20,5066
+244091d0-6dbb-4f66-a93a-6c494df04e0b,87,Female,Flu,22,7728
+add6ee4c-7eea-48be-9e77-272414213210,69,Male,Migraine,15,9365
+53d3f5ab-e1b7-4369-8e3b-a72a8b771418,60,Female,Arthritis,8,7005
+79bc7387-e10e-41ad-98c9-e196153528b3,86,Female,Hypertension,27,3342
+d7f2dada-368e-4b45-b7b4-07a72aca6515,10,Female,Arthritis,26,9224
+fe3a3086-6c0b-4e54-ad52-e5d413244929,2,Male,Arthritis,24,7160
+4ee4bab3-fc5a-43a4-9b10-cd2ca56c267e,15,Male,Arthritis,14,4734
+25d7b9a9-c86e-4e20-b2ee-1841571f1928,49,Female,Flu,8,2704
+3e943341-1592-463b-bd0c-ca69ce8fe4cc,18,Male,Migraine,7,6079
+5b6eb547-46dd-4ab0-9b2f-c82f69812dad,10,Female,Migraine,29,7345
+02d47904-3e5c-4a0a-a579-91a6822d7f59,11,Male,Asthma,21,5871
+208b3d00-b9d5-4584-8502-81bb413a7484,59,Male,Flu,10,6603
+af8998b2-d451-450f-988f-12825005aed7,71,Male,Fracture,18,6408
+a8f4d1ae-3542-48f2-b50c-63ccb7f8c5c7,17,Male,Hypertension,20,6103
+bae6e5b8-1f63-4879-ad68-961cc69c2456,4,Female,Heart Disease,26,8095
+a51350a1-dde8-4aa0-b6e5-3c4a44ea4ce3,26,Female,Heart Disease,1,1835
+bef1f55a-947c-4124-8a27-03bdd24df2c1,38,Female,Arthritis,10,2666
+40b564bc-6e0a-4f9b-baad-b0d5a613f5ec,81,Female,Hypertension,12,3039
+80fd5213-d0b3-4ac4-8028-f85e532b149f,6,Female,Fracture,20,9004
+54788ab8-44d0-411a-8464-71b9d0e2af62,86,Male,Flu,2,6430
+85e29954-6ccf-41dc-9e8f-e308a20f9c24,87,Male,Fracture,2,9190
+ab64bc11-f4c6-4491-99e1-b307f7e796cb,19,Male,Migraine,27,4946
+34fd725f-045f-482c-80b1-0b9d3ca3fcc8,35,Male,Hypertension,14,8939
+c4488bd6-f2d6-4701-a112-8557efb4a5c7,2,Male,Flu,9,7872
+cbc37b7e-53d4-4811-9e65-1040b88859ce,33,Male,Arthritis,30,4545
+9a91c137-8002-45a5-a542-0ed45cae3dd5,89,Female,Asthma,29,2776
+0feb5a72-f264-4e89-9a83-8178402882b3,36,Female,Hypertension,8,4803
+05912832-724a-4dfa-85a0-18c31b5ac1c2,57,Male,Diabetes,3,6809
+262e6899-3b5c-4df1-b91d-ffae1ea95857,35,Male,Migraine,14,4544
+f5ea3d56-8987-4ec8-94d0-8cb6807b1dad,22,Female,Fracture,2,7598
+b8ae8542-3bac-4e09-8dd1-e5b253af6e30,63,Male,Migraine,3,8337
+04e39972-82d4-4fb4-b007-ff528c0f5a5c,39,Male,Heart Disease,24,7057
+a1b8e1c7-9cef-4560-80b7-2c4603d4e13d,50,Male,Diabetes,17,2708
+002476a3-72a5-4ace-98fb-1c4fd39d78c2,44,Female,Flu,9,9096
+44614f15-05c0-4d07-8140-774e588a0a93,26,Male,Hypertension,28,7357
+1f7f05bc-963c-4cde-9575-0cdda7531900,13,Male,Migraine,29,2813
+b666352c-ec69-4897-8442-1cf310726747,83,Female,Heart Disease,9,3131
+c9ba7934-82ac-45b2-9d19-42a1aeb206ad,82,Male,Arthritis,19,8271
+144fc3a3-2504-4b8c-8700-1b086d637f20,26,Female,Migraine,10,9994
+4002f8ec-5a7a-4b09-8366-3861ea5c7dfe,86,Female,Hypertension,5,3246
+2a6580aa-860b-4a62-9d58-9e4f3dd2b0a8,35,Male,Asthma,27,2797
+e2f08b49-ee25-4f8e-9b43-501f4a7e996f,19,Female,Hypertension,30,4962
+87138e7a-d0b2-441d-bd0f-b8fbb34edc9e,79,Male,Heart Disease,12,8236
+6739d5f3-e779-431c-9ac9-07faf560e8da,17,Male,Flu,25,5326
+47129481-ddbc-4844-8427-d39f0b108e36,43,Male,Fracture,23,6862
+bf08bac3-8e46-4f7a-b79c-3c5c8155e433,71,Female,Flu,8,4590
+e757439b-0ddc-4cc7-ac40-5dfa0e5e6ddb,56,Female,Flu,5,9039
+dcc97d7c-7edb-4278-aaf8-0b1de99689bb,24,Male,Diabetes,10,8342
+5ed1dc59-bfb2-41e7-85f5-0ca0564e49a5,51,Female,Diabetes,2,7392
+9f915853-ca59-4a18-ae49-7becb3e9684a,86,Female,Asthma,6,6417
+69d4192c-85e7-4da6-bd9b-10dcfa2f0db3,32,Female,Hypertension,17,5193
+423fc098-ad85-4a01-8f4e-3aa021398bda,87,Male,Hypertension,28,9615
+a6d2a7b3-45f5-4288-b0a1-3cf4cf1dbd42,75,Female,Asthma,8,5032
+f04549a1-58bc-4a4a-8c2b-4cad8c4f5858,2,Male,Hypertension,15,2044
+faeb514c-8782-4f2b-a879-6027ff2a8d5b,44,Female,Migraine,10,4730
+cc4ddaa5-0fb9-4b1b-b45a-1976861037b0,2,Male,Arthritis,26,2218
+3b905d08-50e0-4363-a9eb-a9c1362603f3,1,Female,Migraine,11,9162
+a886d878-c81e-419f-b4b4-c590ce89c6db,41,Male,Arthritis,8,3488
+3fb64454-2661-4b1f-9ab9-f377dc9a5ba1,48,Female,Fracture,13,8404
+96db08d9-7011-44b8-a4c8-8f5fcabe6cd6,68,Female,Hypertension,24,8169
+9c1f98ad-59d9-4139-b090-b4238eaaca61,55,Female,Arthritis,22,2906
+adbc2f97-642f-4a4e-9c55-ed4b1c8e0bd1,42,Female,Flu,7,8781
+2d5d1557-a39e-4e68-8a60-358d7effaf28,29,Female,Asthma,4,1566
+a41fc8ea-654b-401b-a9dd-54a1b5fe3ff2,85,Male,Arthritis,29,4076
+9b4d5e8f-447f-4cc9-adb1-cb3add174ff2,4,Male,Hypertension,2,4087
+6560c74c-7eb3-45f6-bc43-cb47f28e62ad,68,Male,Arthritis,17,6668
+2ad27d23-74ea-474f-97e4-943ece0d79d0,12,Male,Asthma,4,2244
+8dc625d2-534a-4a6d-b2e7-d6e0ea547ddf,51,Male,Heart Disease,1,3130
+cc8673d8-4c00-48d3-b284-8ec7d2d1b358,25,Male,Diabetes,16,5416
+994ff2c9-393b-4ab2-8e36-7926b1520ed1,19,Female,Asthma,5,4195
+3a24a721-e22a-4500-8ec4-398819702bb2,20,Male,Asthma,28,8873
+92e0a3e5-4c56-4bc0-a2eb-51ff450b83a7,59,Female,Hypertension,12,8590
+5e204f42-6fe9-4786-b24c-d15bd7cc19aa,25,Male,Heart Disease,14,3228
+cdd1a9cc-18a6-47ae-b402-3a7603e9d905,61,Male,Arthritis,16,9621
+e657925d-c499-478c-bbf6-1abc5d2be5a2,48,Female,Fracture,26,2582
+41609ddb-227a-409c-a9b0-17d1379fa732,1,Female,Hypertension,16,7408
+c3bbedfd-5feb-4cba-a9b4-5a50e32e162e,88,Female,Flu,21,2407
+ebff1f44-6d20-4d19-b695-e4abafd72d16,10,Male,Heart Disease,19,3213
+28feb592-6544-4c4f-a87a-9203a607b468,86,Female,Diabetes,7,4980
+bc3b9e23-9c2b-49f0-84b3-f957b396f339,60,Female,Flu,2,7169
+b1e9f13c-42e6-4498-9142-c1b5e10dfad1,65,Male,Arthritis,14,9937
+f948d563-cde4-4caf-820c-1b9c00584b01,72,Female,Diabetes,12,7347
+588ec29d-aadc-4285-b0c9-9e372b9c5bd9,83,Female,Flu,9,3583
+22afb127-c5b6-449a-893e-fff3c3a2c1eb,5,Female,Diabetes,10,5605
+862d0bc8-eb77-4385-88f3-696e16c3384b,41,Male,Fracture,4,8778
+a7985f21-5d2e-4605-930f-ac20a1d82f9d,61,Male,Fracture,23,5167
+115f6c08-dd9c-4fc5-9b51-79f7b3eaec25,7,Female,Asthma,10,9437
+dd32fa53-b611-48f5-a982-39dee0484568,17,Male,Hypertension,22,2400
+45b7e0d5-b20b-4459-87b3-57b45b3a51fb,47,Female,Flu,14,6465
+7adc37dd-e2e1-402a-9948-638596d6b6db,78,Male,Asthma,27,2895
+cc5f4b1b-d0e0-40c3-8a67-4f83720321a7,89,Female,Arthritis,3,4827
+1311a85f-66a0-49a5-9052-bd26e82fb454,47,Female,Flu,13,7554
+04b49f23-6d67-4e53-90f9-0ce0eb3721e6,7,Female,Migraine,12,9915
+60270a7b-530c-4ec5-bd5f-66264f04277d,60,Female,Flu,6,2698
+0ca27d99-bdb9-4d8c-a689-526d941c2f1a,73,Male,Diabetes,15,7335
+b6d2e920-3c45-41d6-9fbf-57a170a0a912,76,Female,Fracture,6,9738
+c53e3bcc-b444-4cba-af68-74f617bc1f17,81,Male,Flu,5,3642
+fefcf6f2-9ee9-40bb-96c8-f954f3908dad,43,Female,Migraine,9,9803
+cf96c536-8f13-4ffe-9f6a-17cc57a9a3f7,2,Female,Fracture,5,8782
+e00270a1-976e-41b9-b55f-9b6271e886af,48,Male,Diabetes,27,1604
+4f57cd77-c995-4c69-9341-350994e37697,88,Female,Asthma,4,2150
+edb5c1e6-94c0-48ad-865f-622d81eb80fe,77,Female,Fracture,2,2341
+6382821b-e27a-4845-a171-b093cd6278f5,42,Male,Fracture,15,6802
+91d29875-1e46-4855-8556-29249b8aa1b3,70,Male,Asthma,6,8567
+08c8d273-bcbf-4c33-bc95-91d8ae5c7a97,46,Female,Migraine,8,5091
+6a4507f3-a5f1-4f51-8979-3c8ae2795c16,70,Male,Asthma,1,9641
+acebc994-58de-4b9e-8fb6-78b64f786d87,42,Female,Hypertension,10,7943
+8326f8c2-06d0-49c2-b51a-948522118f95,24,Male,Diabetes,20,1658
+5d901ede-8bcc-47af-ab46-79d6ab8143a5,47,Male,Heart Disease,27,3088
+35956a00-45fb-4585-a528-853f784ce128,4,Male,Asthma,12,9574
+29100b2f-78ba-46b2-a3ee-4e2cfb6a3f66,10,Female,Diabetes,4,5221
+083ad416-655d-417c-bb9b-14a1a5645997,61,Female,Diabetes,30,4577
+e390492a-87c3-4441-8dc6-f56495d46e93,19,Female,Hypertension,23,9851
+a3db5be0-ecb3-43bb-b0ff-33fc622b92c9,44,Female,Flu,16,1924
+df6d3b7a-5df8-4e96-8704-829dd5491496,53,Female,Fracture,26,1714
+f77658aa-17a5-4381-998e-0f142a4df363,61,Female,Arthritis,12,6780
+22b2f932-3da6-41ee-a2f6-3f06db301147,75,Male,Hypertension,2,5620
+5001941b-ee4f-467d-b4a8-a7dce4e33c89,77,Female,Heart Disease,3,8853
+c4c70981-4ead-4825-a0df-595ce31f2a64,63,Female,Fracture,24,6733
+40d4aad1-7957-4d67-8a23-d48f06cb5236,77,Female,Flu,19,5469
+67ce5f9a-9708-4014-88fc-e4b44413d0ae,79,Female,Diabetes,17,5509
+713231c1-33cc-435a-a3a3-888a46541ac8,70,Male,Diabetes,15,4233
+d78e6dbd-fabf-42b9-9f9f-8990bc51c26a,45,Male,Flu,24,6964
+f1da2948-a38e-4982-949d-fa7cdf066d39,79,Male,Heart Disease,27,9225
+c2155c4a-1764-4154-b0dd-cf5b7c09212f,17,Male,Diabetes,30,8104
+1401b3ce-85da-47b4-9048-44762a40e741,15,Female,Diabetes,9,5031
+d64c0250-368d-4ee8-9222-3075d746cb3c,41,Female,Diabetes,21,9942
+85f71502-b2be-43b4-81b0-e8fe97dd2bcb,73,Male,Arthritis,27,8774
+87bfe3e5-47e7-4c94-863a-e55227dbd3a5,64,Female,Asthma,21,6306
+0b4ce890-ff2e-4f9f-b98e-49b73709c8a0,87,Female,Hypertension,24,1613
+17a26122-4c2f-4f9e-b7d3-55ac78774c6a,40,Female,Hypertension,9,2300
+075882fe-0a55-4d28-b3b0-42e9c04fb6c3,25,Male,Fracture,8,2801
+02c26ee2-90bf-4dce-a371-d4b7b5e831d7,3,Female,Arthritis,30,6389
+c0163248-ad61-4618-9534-6a070fbe19ee,55,Female,Hypertension,9,8398
+edaf8eb6-0285-4081-a202-c19ec8215076,29,Female,Heart Disease,20,5934
+6fcbba55-7f28-47dd-bfda-f5084b879ca9,33,Male,Asthma,24,8450
+05e2003f-c556-4005-bbcb-d6554362fe4b,7,Male,Asthma,5,2939
+77180147-1174-48b7-8c22-9dde77355d6d,69,Male,Hypertension,30,8439
+37ecd86c-caf7-423c-bf48-3856c81c624a,9,Male,Fracture,15,1937
+c7ea42ea-6b2a-4ed5-a5d7-047e81571ca1,10,Female,Hypertension,30,9558
+65a2d088-2516-4894-9763-15e195932cce,33,Female,Asthma,2,2943
+45f9f10d-7941-413b-b3e3-6c140d1a65b7,7,Male,Asthma,4,1717
+d17bce15-ab1b-4164-b475-81d16c556218,60,Female,Migraine,5,3274
+a6626651-83af-4b8c-bd67-2a3497d19d30,22,Female,Diabetes,28,5026
+97e9ef56-52ae-47f4-aae5-9b8dda0213fe,23,Male,Diabetes,11,6779
+04e16535-81be-49bd-939e-a1913d1d0f92,82,Male,Hypertension,24,5919
+911c9c17-8ee1-4a6a-ae71-8f0e95a30add,70,Male,Heart Disease,14,3501
+75081a33-647d-446e-ab34-556c7f26bab2,86,Male,Asthma,1,7077
+96203007-401b-4842-b742-7e3a22c3129a,77,Female,Fracture,15,6373
+bfccfd19-8b4a-4bcf-a7c0-891bc254a5c4,51,Male,Flu,10,6154
+16ae48d1-07a8-4b5c-b3fd-019c46b53e5d,68,Male,Fracture,14,7134
+bf0c2108-00c8-4f59-ac1f-76d7df92a2df,63,Male,Migraine,23,2953
+dd112a7b-00f7-40a4-9a0c-e1bcfa14365d,78,Male,Hypertension,25,2143
+e5e0f7ff-7386-4699-95ce-d075fe3861e5,79,Female,Flu,15,8455
+19ebd6d3-7ea4-4da3-8438-e5dc6420e75e,81,Female,Flu,14,4101
+b5d89046-bd04-4f72-a442-3d35f040c8c1,47,Male,Flu,6,3471
+b051dc68-e098-4337-87e2-2bb0227470ef,2,Female,Hypertension,9,8969
+094f154c-a13a-455c-9472-2b7caf67c1dd,44,Female,Flu,25,3570
+1c7b1443-35e1-4f30-b08d-932447521999,82,Female,Heart Disease,21,2813
+4601a0f1-cb50-42b4-bdf5-e7ce050b2273,26,Female,Asthma,12,9043
+666e6318-28c2-49c9-99ce-7afe53ec9ec4,90,Male,Diabetes,1,5718
+68cabcc3-aa97-4cf9-9fcc-5fcfff03c798,47,Female,Hypertension,2,7327
+344f5b21-69a6-4384-9671-62708b0d2ff4,80,Female,Flu,6,2477
+7943992e-abc9-4ed8-885d-e307496be534,70,Male,Fracture,25,5693
+1c4185a3-49bb-4933-ab19-353226d1fd99,20,Female,Heart Disease,9,8810
+eab3e65f-f1c2-4049-955b-82e17da38c4d,49,Female,Migraine,3,9054
+95a9eaeb-077c-4c3b-b966-0a7cb84804cf,35,Male,Arthritis,2,7367
+abe607a6-ca67-4f5b-8d17-44abbd715436,65,Male,Flu,7,9110
+0d9c9be0-77c9-4de9-8917-eb8cc23e1e52,51,Male,Diabetes,18,9986
+33f6dce1-fa62-4e38-a0bd-9e49782eb93c,15,Female,Diabetes,22,2720
+b0859dfe-638d-427d-adf6-354d006d1a8d,79,Female,Asthma,3,6672
+d855f2a2-9334-4658-8b6f-52ee883dfbf3,58,Male,Flu,8,1857
+33c99e58-4546-4a48-bc9b-107ea8f486ad,77,Female,Heart Disease,15,6718
+f52e797f-0efa-48af-8a97-d300f648ec58,57,Male,Flu,7,4049
+f2f30eee-d923-425a-9403-880eb36cfed3,70,Female,Heart Disease,12,9139
+eaa66205-7f64-49ea-9b3d-0497f77631d3,68,Female,Flu,7,4628
+4dd3a471-1666-49f2-92e8-a159634817ae,70,Male,Fracture,28,7504
+4245d92b-5212-4c13-81c6-18a4c8e79f8c,41,Male,Arthritis,13,3421
+227dfe32-e17c-4109-9691-820a5bd0c3b6,32,Female,Migraine,22,5962
+47fd7c96-4f00-443b-b8a9-e79cf1ab11aa,5,Female,Asthma,28,1738
+f9fda195-a8a3-4e75-93ea-2df7d167bda9,70,Male,Fracture,16,9662
+d4952d16-1c2d-4b39-896f-ad41762c10ee,27,Female,Migraine,14,9957
+e7a9c81f-a703-4048-b99a-e32b39e38828,81,Female,Heart Disease,22,6306
+eaefa29a-ebc4-4307-b588-4f6902b7bd3d,78,Male,Asthma,21,9621
+3142143b-27d5-4ec8-9594-74578fb00f31,60,Male,Heart Disease,14,4744
+e58069f1-9195-4352-8ebc-6beb633e0a94,61,Male,Diabetes,11,4428
+580eefed-fa91-46d9-b492-fd8b75fe5051,25,Male,Fracture,17,6828
+1efd1341-cb96-459c-bb0c-e166bba8133f,88,Female,Diabetes,12,7138
+9bdf2ea7-37de-4eb5-8798-ed337764e36e,16,Female,Diabetes,26,8859
+0ea07d7c-1a5c-4509-8c3e-17526ba166e2,75,Male,Fracture,11,5250
+8aaba00c-737c-40bf-8219-d272ad722005,41,Male,Arthritis,5,2247
+c2165ba1-fd43-4614-acf9-00ea0fb8e0b5,65,Male,Migraine,27,7622
+d62325b4-de74-4969-89b0-5eb77b58f3a1,51,Male,Diabetes,4,3030
+fed3b098-1d26-417f-ae5f-5e9db09d438a,39,Female,Heart Disease,27,4603
+1370a20b-3249-4847-b0b5-f0600a38b08e,10,Female,Diabetes,20,7282
+4acf121e-1cc8-4235-9cd4-2cb5c33c2e78,52,Female,Migraine,27,4777
+37c0afda-ff1c-4f53-a30c-4b56019e3a34,47,Male,Fracture,30,7233
+3ea55afd-9974-4603-8d7f-485da033cd1f,62,Male,Heart Disease,26,1721
+5d750c4c-20f3-4732-8ded-699da66b1378,66,Female,Flu,18,1727
+2a788030-d5f1-4506-91fd-566d4ce50fdc,63,Male,Arthritis,21,5831
+469e6958-4fdb-4657-aa58-bf0a558efb07,56,Female,Migraine,4,2240
+eceeb9a5-2b0e-47f0-9b36-2c2c2dfaa104,38,Female,Migraine,14,6905
+139a8409-6233-47d5-8f30-33a9a78555cc,2,Female,Arthritis,19,8803
+d0462da3-53ad-467b-a3a4-236143412d3e,32,Female,Arthritis,24,2225
+e7151d0b-e43d-4f28-a167-886e24893843,25,Male,Asthma,5,3551
+23513baf-f882-4096-87f8-80e12ea12cb7,20,Female,Asthma,14,2772
+18848947-49a9-4de5-a66f-63360bac3472,88,Male,Heart Disease,3,9010
+1372cae5-fe35-4cee-a58b-da85f1538253,34,Female,Flu,3,2968
+3ad34693-3d92-4f6c-94c1-d4edc8e1967b,64,Male,Flu,18,5088
+a5b91f2e-f746-4b1b-9fb1-9e7170dd6f78,31,Female,Flu,10,5624
+c9cd591d-6c92-4be2-816c-d8d3afada95e,60,Female,Diabetes,11,5282
+6fb41bbc-fe30-4ab0-b0da-adc03082c4af,35,Female,Arthritis,30,6832
+485183f3-8b7f-4a27-a359-ec6564acce09,14,Female,Arthritis,6,2641
+5e47adbd-ebbb-4c71-b6f3-06c950cfd61c,89,Male,Asthma,12,4088
+37822166-a33f-4aea-85a0-eb8a8212aeca,13,Female,Migraine,7,4724
+0e797c8f-25fe-468a-b7be-e2dddabae58f,36,Female,Arthritis,19,5548
+ab800632-5bd8-4a1c-bf95-ee91790eafe0,31,Male,Migraine,25,6362
+c518250d-fcbc-4fcc-8249-142fcefe77cd,33,Female,Hypertension,5,6381
+6a93b38c-9f71-4bbb-97ee-dd927b079728,45,Male,Diabetes,21,7594
+a94b8655-8260-4d7e-8d9b-eb4707e05408,7,Male,Diabetes,13,1969
+ea1fe961-df1d-451f-90aa-f2fda7008c1d,33,Male,Diabetes,14,8021
+c44a4228-c8b5-4731-8f7a-f81844e914a1,33,Female,Asthma,11,3140
+e176c03e-7bf1-4fdb-b732-b45dc72e62d7,59,Male,Heart Disease,16,3443
+baef2b3d-73c4-4547-839f-f3bba222ff61,64,Male,Diabetes,25,7609
+b2bdaabb-2221-45bc-921a-061be902da25,1,Male,Arthritis,5,8944
+dd7ce4d3-b850-4bfb-a1d1-359ec0c73b78,26,Female,Asthma,30,2100
+5c85f83f-d02e-461e-a5c7-574e74c16788,43,Female,Hypertension,3,7245
+f50da384-8e26-40d6-9f74-8c2ec74c7a04,6,Male,Heart Disease,24,4604
+7a4d23b2-636e-4498-bf06-7c0bae3bea6d,28,Male,Diabetes,26,7374
+f0c16ec6-3373-4f9a-aeac-1c0801ecab60,82,Male,Heart Disease,15,5031
+e57baebb-e992-4a8b-852f-7985a809a121,60,Male,Flu,7,9061
+0c59df0b-9bc4-4b75-b25d-cfc34fad95ce,29,Female,Migraine,23,7073
+89d9436b-a8eb-49aa-9c4b-24d836a4bc5a,19,Male,Arthritis,4,5308
+6708cfc2-4567-45ef-af03-5d6491959f55,28,Male,Hypertension,15,1505
+17375b4d-4ede-4606-b8e2-00909f6563da,44,Female,Flu,9,9572
+d9f8bca0-3c1d-48df-8e83-37e3e82ed334,88,Male,Migraine,30,5348
+9a359b3d-7989-411f-87d0-28407328ec2b,80,Female,Diabetes,18,8695
+9d99e1cb-0c58-4e98-87e1-35131622b192,17,Male,Hypertension,11,3591
+c3a23fde-1345-436b-b848-0cbd5541f2e8,11,Female,Arthritis,15,7158
